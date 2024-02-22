@@ -1,7 +1,9 @@
 Jaguar Website Clone
 <br>
 <br>
-Overview
+OVERVIEW
+<br>
+<br>
 This project is a clone of the official Jaguar website. 
 It aims to replicate the design and functionality of the original website, providing users with a similar browsing experience.
 <br>
