@@ -1,3 +1,4 @@
+
 const navBox = document.querySelector(".icon-dropdown-box");
 
 let isClicked = true;
@@ -25,7 +26,7 @@ function showHide(){
 
 //window prompt - retailers page
 
-// window.prompt("wwww.jaguarusa.com wwants to know your location")
+// window.prompt("wwww.jaguarusa.com wants to know your location")
 // add allow or block buttons 
 
 
@@ -40,7 +41,7 @@ function displayHide(){
         buildersClicked = false;
     }
     else{
-        buildersBox.style.display ="none";
+        buildersBox.style.display="none";
         buildersClicked = true;
     }
 }
@@ -53,5 +54,22 @@ function closeBuilders(){
     if (closeNavbutton){
         buildsNav.style.display ="none";
         closeNavbutton = true;
+    }
+}
+
+// hide function for account dropdown in navigation
+
+
+const accountDropdown = document.querySelector(".account-dropdown");
+let accountTriggered = true;
+
+function displayHideAccount(){
+    if (accountTriggered){
+        accountDropdown.style.display="block";
+        accountTriggered = false;
+    }
+    else{
+        accountDropdown.style.display="none";
+        accountTriggered = true;
     }
 }
