@@ -1,5 +1,9 @@
-Jaguar Website Clone
+Jaguar Landing Page Clone
+<hr>
 <br>
+
+``HTML`` | ``CSS`` | ``JavaScript``
+
 <br>
 OVERVIEW
 <br>
