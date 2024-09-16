@@ -26,14 +26,12 @@ Car Listings: Displays a range of Jaguar car listings with detailed information 
 <br>
 Interactive Elements: Incorporates JavaScript to add interactive elements such as car image sliders, hover effects, and dropdown menus.
 
-![](images/jag-main-1.jpg)
-![](images/jag-main-2.jpg)
-![](images/jag-main-3.jpg)
-![](images/jag-main-4.jpg)
-![](images/jag-main-5.jpg)
-![](images/jag-main-6.jpg)
-![](images/jag-main-7.jpg)
-![](images/jag-main-8.jpg)
-![](images/jag-main-9.jpg)
-![](images/jag-main-10.jpg)
-![](images/jag-main-11.jpg)
+![](images/NEWJAG-3.png)
+![](images/NEWJAG-4.png)
+![](images/NEWJAG-5.png)
+![](images/NEWJAG-1.png)
+![](images/NEWJAG-2.png)
+![](images/NEWJAG-6.png)
+![](images/NEWJAG-7.png)
+![](images/NEWJAG-8.png)
+
