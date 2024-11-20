@@ -25,6 +25,9 @@ Car Listings: Displays a range of Jaguar car listings with detailed information 
 <br>
 <br>
 Interactive Elements: Incorporates JavaScript to add interactive elements such as car image sliders, hover effects, and dropdown menus.
+<br>
+
+[Live Demo](https://jaguar-clone.netlify.app/)
 
 ![](images/NEWJAG-3.png)
 ![](images/NEWJAG-4.png)
